@@ -17,7 +17,7 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 An inspiring active learner<br>
+💻 An active learner<br>
 📚 A graduate from VJTI, Mumbai<br>
 📈 Experienced in UI-UX, Frontend, Backend and Databases and APIs<br>
 
