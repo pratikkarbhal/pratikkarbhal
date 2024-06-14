@@ -4,13 +4,7 @@
 <p align="center">
     <img width="200" src="https://github.com/">
 </p>
--->
 
-<div>
-<strong>About Me:</strong><br>
-💻 An inspiring active learner<br>
-📚 A graduate from VJTI, Mumbai<br>
-📈 Experienced in UI-UX, Frontend, Backend and Databases and APIs<br>
 🏆 My certifications: 
 <ul>
   <li>SOA: Exam FM, Exam P, Exam IFM</li>
@@ -19,15 +13,22 @@
   <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
   <li>freeCodeCamp: Responsive Web Design</li> 
 </ul>
-📫 Reach me at <a href="mailto:-">-</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
+-->
 
+<div>
+<strong>About Me:</strong><br>
+💻 An inspiring active learner<br>
+📚 A graduate from VJTI, Mumbai<br>
+📈 Experienced in UI-UX, Frontend, Backend and Databases and APIs<br>
 
-<strong>💡 Worked on :</strong><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkarbhal&langs_count_private=true&theme=radical&card_width=445)<br><br>
+📫 Reach me at <a href="mailto:-pratikkarbhal@gmail.com">Gmail</a><br>
+😄 Find me on <a href="https://www.linkedin.com/in/pratikkarbhal">Linkedin</a><br><br><br>
+
 
 <strong>🚀 My Favourites :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikkarbhal&repo=CustomIPTVm3u8&theme=radical)](https://github.com/pratikkarbhal/CustomIPTVm3u8)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikkarbhal&repo=Movies4U&theme=radical)](https://pratikkarbhal.github.io/Movies4U/)
+
 
 
 </div>
