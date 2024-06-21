@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm pratik</h2>
+<h2 align="center">Hi there 👋, I'm pratik.</h2>
 
 <!--    
 <p align="center">
@@ -21,8 +21,8 @@
 📚 A graduate from VJTI, Mumbai<br>
 📈 Experienced in UI-UX, Frontend, Backend and Databases and APIs<br>
 
-📫 Reach me at <a href="mailto:-pratikkarbhal@gmail.com">Gmail</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/pratikkarbhal">Linkedin</a><br><br><br>
+📫 Reach me at  <a href="mailto:-pratikkarbhal@gmail.com">Gmail</a><br>
+😄 Find me on  <a href="https://www.linkedin.com/in/pratikkarbhal">Linkedin</a><br><br><br>
 
 
 <strong>🚀 My Favourites :</strong><br><br>
