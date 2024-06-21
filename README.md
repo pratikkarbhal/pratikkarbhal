@@ -1,4 +1,5 @@
-# <h1 align="center">Hi there 👋, I'm pratik</h1>
+<h1 align="center">Hi there 👋, I'm pratik</h1>
+
 <!--    
 <p align="center">
     <img width="200" src="https://github.com/">
