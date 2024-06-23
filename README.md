@@ -21,7 +21,7 @@
 📚 A graduate from VJTI, Mumbai<br>
 📈 Experienced in UI-UX, Frontend, Backend, Databases and APIs<br>
 
-📫 Reach me at  <a href="mailto:-pratikkarbhal@gmail.com">Gmail</a><br>
+📫 Reach me at  <a href="mailto:pratikkarbhal@gmail.com">Gmail</a><br>
 😄 Find me on  <a href="https://www.linkedin.com/in/pratikkarbhal">Linkedin</a><br><br><br>
 
 
