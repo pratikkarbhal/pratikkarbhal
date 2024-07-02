@@ -27,7 +27,7 @@
 
 <strong>🚀 My Favourites :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikkarbhal&repo=Movies4U&theme=radical)](https://pratikkarbhal.github.io/Movies4U/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikkarbhal&repo=CustomIPTVm3u8&theme=radical)](https://pratikkarbhal.github.io/CustomIPTVm3u8)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratikkarbhal&repo=Web-IPTV&theme=radical)](https://pratikkarbhal.github.io/Web-IPTV)
 
 
 
